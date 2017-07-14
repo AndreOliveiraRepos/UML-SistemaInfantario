@@ -10,6 +10,6 @@ O trabalho realizado pretende especificar os casos de uso: Registar Matrícula, 
 - Fluxo de Eventos
 - Diagramas de actividade
 - Diagramas de sequência do sistema
-- Diagramas de Desenho do sistema
--- Diagramas de Classe
--- Diagramas de sequência de desenho
+- Desenho do sistema:
+-  Diagramas de Classe
+-  Diagramas de sequência de desenho
