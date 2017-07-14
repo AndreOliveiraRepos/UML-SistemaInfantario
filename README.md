@@ -11,5 +11,5 @@ O trabalho realizado pretende especificar os casos de uso: Registar Matrícula, 
 - Diagramas de actividade
 - Diagramas de sequência do sistema
 - Desenho do sistema:
--  Diagramas de Classe
--  Diagramas de sequência de desenho
+-  -Diagramas de Classe
+-  -Diagramas de sequência de desenho
